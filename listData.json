@@ -1,0 +1,12 @@
+[  
+	{
+      "icon" : "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2844145264,2256938837&fm=26&gp=0.jpg",
+      "name" : "Amy",
+      "type" : "Friend"
+  },
+	{
+    "icon" : "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3528863402,4279043170&fm=26&gp=0.jpg",
+    "name" : "Apple",
+    "type" : "Family"
+  }
+]
